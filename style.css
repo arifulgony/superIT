@@ -1,13 +1,12 @@
 .carousel-item {
     background: #000;
-    
-}
 
+}
 .carousel-item img {
     opacity: 0.5;
 }
 .carousel-caption {
-    top:28% ;
+    top:25% ;
     width: 40%;
     left: 28%;
 }
